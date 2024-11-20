@@ -12,7 +12,7 @@
   </div>
 
   <h3 align="center">Modern UI/UX website</h3>
-
+</div>
   
 
 
